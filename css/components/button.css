@@ -1,0 +1,9 @@
+.button {
+	background-color: rgb(78, 78, 78);
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Playpen Sans', cursive;
+
+}
